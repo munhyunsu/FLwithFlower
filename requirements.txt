@@ -1,1 +1,5 @@
-../UsefulCommand/Jupyter/flower_requirements.txt
+pip
+wheel
+
+flwr
+tensorflow
